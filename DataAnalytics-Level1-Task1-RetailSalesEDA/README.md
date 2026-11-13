@@ -21,7 +21,6 @@ This project performs Exploratory Data Analysis (EDA) on a retail sales dataset 
 # Project Features
 
 - Data Loading
-- Data Cleaning
 - Descriptive Statistics
 - Customer Analysis
 - Product Category Analysis
